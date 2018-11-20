@@ -87,7 +87,8 @@ int main()
 
 	*/
 
-	/* Task 1g
+
+	/* Task 1g++
 	int a, b, p, d;
 
 	printf("a = ");
